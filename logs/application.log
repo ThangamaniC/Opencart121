@@ -1,0 +1,323 @@
+2025-12-25 12:19:18 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\BHARATHI\eclipse-workspace\Opencart121\docker-grid.xml
+
+2025-12-25 12:19:21 [main] INFO  WebDriverManager - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
+2025-12-25 12:19:22 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\BHARATHI\.cache\selenium\chromedriver\win64\143.0.7499.169\chromedriver.exe
+2025-12-25 12:19:29 [main] INFO  TC001_AccountRegistration - ***Starting the execution***
+2025-12-25 12:19:30 [main] INFO  TC001_AccountRegistration - ***Launched the homepage***
+2025-12-25 12:19:30 [main] INFO  TC001_AccountRegistration - ***Providing user details***
+2025-12-25 12:19:33 [main] INFO  TC001_AccountRegistration - ***Account is registered successfully***
+2025-12-25 12:19:34 [main] INFO  WebDriverManager - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
+2025-12-25 12:19:34 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\BHARATHI\.cache\selenium\chromedriver\win64\143.0.7499.169\chromedriver.exe
+2025-12-25 12:19:41 [main] INFO  TC002_LoginTest - ***Starting LoginTest tet case execution ***
+2025-12-25 12:19:44 [main] INFO  TC002_LoginTest - ***Login Test Execution completed***
+2025-12-25 12:19:44 [main] INFO  TC002_LoginTest - ***User Logged Out***
+2025-12-25 12:23:06 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\BHARATHI\eclipse-workspace\Opencart121\docker-grid.xml
+
+2025-12-25 12:23:07 [main] INFO  WebDriverManager - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
+2025-12-25 12:23:07 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\BHARATHI\.cache\selenium\chromedriver\win64\143.0.7499.169\chromedriver.exe
+2025-12-25 12:23:13 [main] INFO  TC001_AccountRegistration - ***Starting the execution***
+2025-12-25 12:23:14 [main] INFO  TC001_AccountRegistration - ***Launched the homepage***
+2025-12-25 12:23:14 [main] INFO  TC001_AccountRegistration - ***Providing user details***
+2025-12-25 12:23:16 [main] INFO  TC001_AccountRegistration - ***Account is registered successfully***
+2025-12-25 12:23:18 [main] INFO  WebDriverManager - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
+2025-12-25 12:23:18 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\BHARATHI\.cache\selenium\chromedriver\win64\143.0.7499.169\chromedriver.exe
+2025-12-25 12:23:23 [main] INFO  TC002_LoginTest - ***Starting LoginTest tet case execution ***
+2025-12-25 12:23:25 [main] INFO  TC002_LoginTest - ***Login Test Execution completed***
+2025-12-25 12:23:26 [main] INFO  TC002_LoginTest - ***User Logged Out***
+2025-12-25 16:21:05 [main] INFO  WebDriverManager - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
+2025-12-25 16:21:05 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\BHARATHI\.cache\selenium\chromedriver\win64\143.0.7499.169\chromedriver.exe
+2025-12-25 16:26:20 [main] INFO  WebDriverManager - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
+2025-12-25 16:26:20 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\BHARATHI\.cache\selenium\chromedriver\win64\143.0.7499.169\chromedriver.exe
+2025-12-25 16:27:47 [main] INFO  WebDriverManager - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
+2025-12-25 16:27:47 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\BHARATHI\.cache\selenium\chromedriver\win64\143.0.7499.169\chromedriver.exe
+2025-12-25 16:30:40 [main] INFO  WebDriverManager - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
+2025-12-25 16:30:40 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\BHARATHI\.cache\selenium\chromedriver\win64\143.0.7499.169\chromedriver.exe
+2025-12-25 16:36:02 [main] INFO  WebDriverManager - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
+2025-12-25 16:36:02 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\BHARATHI\.cache\selenium\chromedriver\win64\143.0.7499.169\chromedriver.exe
+2025-12-25 16:40:42 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-12-25 16:40:42 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-12-25 16:40:42 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-25 16:40:42 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-25 16:40:42 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-25 16:40:42 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-25 16:40:42 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-25 16:40:42 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-25 16:40:42 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 12 ms.
+2025-12-25 16:40:42 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 14 ms.
+2025-12-25 16:40:42 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-25 16:40:42 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-25 16:40:42 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-25 16:40:42 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-25 16:40:42 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-25 16:40:42 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-25 16:40:42 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-25 16:40:42 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-25 16:40:42 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-25 16:40:42 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-25 16:40:42 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-25 16:40:42 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-25 16:40:42 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-25 16:40:42 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-25 16:40:42 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-25 16:40:42 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-25 16:40:42 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-25 16:40:42 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-25 16:40:42 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-12-25 16:40:42 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-12-25 16:40:42 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\BHARATHI\AppData\Local\Temp\testng-eclipse--858767199\testng-customsuite.xml
+
+2025-12-25 16:40:42 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-12-25 16:58:14 [main] INFO  TC002_LoginTest - ***Starting LoginTest tet case execution ***
+2025-12-25 16:58:18 [main] INFO  TC002_LoginTest - ***User Logged Out***
+2025-12-25 17:03:38 [TestNG-tests-3] INFO  TC002_LoginTest - ***Starting LoginTest tet case execution ***
+2025-12-25 17:03:42 [TestNG-tests-3] INFO  TC002_LoginTest - ***User Logged Out***
+2025-12-25 17:03:48 [TestNG-tests-1] INFO  TC001_AccountRegistration - ***Starting the execution***
+2025-12-25 17:03:51 [TestNG-tests-1] INFO  TC001_AccountRegistration - ***Launched the homepage***
+2025-12-25 17:03:51 [TestNG-tests-1] INFO  TC001_AccountRegistration - ***Providing user details***
+2025-12-25 17:03:51 [TestNG-tests-2] INFO  TC002_LoginTest - ***Starting LoginTest tet case execution ***
+2025-12-25 17:03:55 [TestNG-tests-1] INFO  TC001_AccountRegistration - ***Account is registered successfully***
+2025-12-25 17:03:56 [TestNG-tests-2] INFO  TC002_LoginTest - ***User Logged Out***
+2025-12-25 17:17:57 [TestNG-tests-3] INFO  WebDriverManager - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
+2025-12-25 17:17:57 [TestNG-tests-1] INFO  WebDriverManager - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
+2025-12-25 17:17:57 [TestNG-tests-1] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\BHARATHI\.cache\selenium\chromedriver\win64\143.0.7499.169\chromedriver.exe
+2025-12-25 17:17:57 [TestNG-tests-3] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\BHARATHI\.cache\selenium\chromedriver\win64\143.0.7499.169\chromedriver.exe
+2025-12-25 17:18:02 [TestNG-tests-2] INFO  WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+2025-12-25 17:18:03 [TestNG-tests-3] INFO  TC002_LoginTest - ***Starting LoginTest tet case execution ***
+2025-12-25 17:18:03 [TestNG-tests-1] INFO  TC001_AccountRegistration - ***Starting the execution***
+2025-12-25 17:18:03 [TestNG-tests-2] INFO  WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\BHARATHI\.cache\selenium\geckodriver\win64\0.36.0\geckodriver.exe
+2025-12-25 17:18:06 [TestNG-tests-1] INFO  TC001_AccountRegistration - ***Launched the homepage***
+2025-12-25 17:18:06 [TestNG-tests-1] INFO  TC001_AccountRegistration - ***Providing user details***
+2025-12-25 17:18:09 [TestNG-tests-3] INFO  TC002_LoginTest - ***User Logged Out***
+2025-12-25 17:18:10 [TestNG-tests-1] INFO  TC001_AccountRegistration - ***Account is registered successfully***
+2025-12-25 17:19:33 [TestNG-tests-1] INFO  WebDriverManager - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
+2025-12-25 17:19:33 [TestNG-tests-3] INFO  WebDriverManager - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
+2025-12-25 17:19:33 [TestNG-tests-1] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\BHARATHI\.cache\selenium\chromedriver\win64\143.0.7499.169\chromedriver.exe
+2025-12-25 17:19:33 [TestNG-tests-3] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\BHARATHI\.cache\selenium\chromedriver\win64\143.0.7499.169\chromedriver.exe
+2025-12-25 17:19:38 [TestNG-tests-1] INFO  TC001_AccountRegistration - ***Starting the execution***
+2025-12-25 17:19:38 [TestNG-tests-3] INFO  TC002_LoginTest - ***Starting LoginTest tet case execution ***
+2025-12-25 17:19:38 [TestNG-tests-2] INFO  WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+2025-12-25 17:19:39 [TestNG-tests-2] INFO  WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\BHARATHI\.cache\selenium\geckodriver\win64\0.36.0\geckodriver.exe
+2025-12-25 17:19:41 [TestNG-tests-1] INFO  TC001_AccountRegistration - ***Launched the homepage***
+2025-12-25 17:19:41 [TestNG-tests-1] INFO  TC001_AccountRegistration - ***Providing user details***
+2025-12-25 17:19:43 [TestNG-tests-3] INFO  TC002_LoginTest - ***User Logged Out***
+2025-12-25 17:19:44 [TestNG-tests-1] INFO  TC001_AccountRegistration - ***Account is registered successfully***
+2025-12-25 17:20:25 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\BHARATHI\eclipse-workspace\Opencart121\crossbrowsertest.xml
+
+2025-12-25 17:20:26 [TestNG-tests-1] INFO  WebDriverManager - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
+2025-12-25 17:20:26 [TestNG-tests-1] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\BHARATHI\.cache\selenium\chromedriver\win64\143.0.7499.169\chromedriver.exe
+2025-12-25 17:20:27 [TestNG-tests-2] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_RELEASE_143_WINDOWS to get latest version of msedgedriver (No such host is known (msedgedriver.azureedge.net))
+2025-12-25 17:20:27 [TestNG-tests-2] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_STABLE to get latest version of msedgedriver (msedgedriver.azureedge.net)
+2025-12-25 17:20:27 [TestNG-tests-2] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_STABLE to get latest version of msedgedriver (msedgedriver.azureedge.net)
+2025-12-25 17:20:27 [TestNG-tests-2] INFO  WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+2025-12-25 17:20:27 [TestNG-tests-2] WARN  WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net) ... trying again using latest driver stored in cache
+2025-12-25 17:20:27 [TestNG-tests-2] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_STABLE to get latest version of msedgedriver (msedgedriver.azureedge.net)
+2025-12-25 17:20:27 [TestNG-tests-2] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_STABLE to get latest version of msedgedriver (msedgedriver.azureedge.net)
+2025-12-25 17:20:27 [TestNG-tests-2] INFO  WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+2025-12-25 17:20:27 [TestNG-tests-2] ERROR WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net)
+io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at io.github.bonigarcia.wdm.WebDriverManager.getDriversFromXml(WebDriverManager.java:1588) ~[webdrivermanager-5.9.2.jar:?]
+	at io.github.bonigarcia.wdm.managers.EdgeDriverManager.getDriverUrls(EdgeDriverManager.java:115) ~[webdrivermanager-5.9.2.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.createUrlHandler(WebDriverManager.java:1442) ~[webdrivermanager-5.9.2.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.download(WebDriverManager.java:1268) ~[webdrivermanager-5.9.2.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1184) ~[webdrivermanager-5.9.2.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.fallback(WebDriverManager.java:1437) ~[webdrivermanager-5.9.2.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:1415) ~[webdrivermanager-5.9.2.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1190) ~[webdrivermanager-5.9.2.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:427) ~[webdrivermanager-5.9.2.jar:?]
+	at testBase.BaseTestClass.setup(BaseTestClass.java:67) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+Caused by: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at java.base/java.net.InetAddress$CachedLookup.get(InetAddress.java:998) ~[?:?]
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1807) ~[?:?]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1676) ~[?:?]
+	at org.apache.hc.client5.http.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:43) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:141) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:447) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:162) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:172) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:142) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:192) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:152) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:87) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:55) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.classic.HttpClient.executeOpen(HttpClient.java:183) ~[httpclient5-5.2.1.jar:5.2.1]
+	at io.github.bonigarcia.wdm.online.HttpClient.execute(HttpClient.java:157) ~[webdrivermanager-5.9.2.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.getDriversFromXml(WebDriverManager.java:1573) ~[webdrivermanager-5.9.2.jar:?]
+	... 27 more
+2025-12-25 17:20:47 [TestNG-tests-1] INFO  WebDriverManager - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
+2025-12-25 17:20:47 [TestNG-tests-1] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\BHARATHI\.cache\selenium\chromedriver\win64\143.0.7499.169\chromedriver.exe
+2025-12-25 17:20:47 [TestNG-tests-2] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_RELEASE_143_WINDOWS to get latest version of msedgedriver (No such host is known (msedgedriver.azureedge.net))
+2025-12-25 17:20:47 [TestNG-tests-2] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_STABLE to get latest version of msedgedriver (msedgedriver.azureedge.net)
+2025-12-25 17:20:47 [TestNG-tests-2] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_STABLE to get latest version of msedgedriver (msedgedriver.azureedge.net)
+2025-12-25 17:20:47 [TestNG-tests-2] INFO  WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+2025-12-25 17:20:47 [TestNG-tests-2] WARN  WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net) ... trying again using latest driver stored in cache
+2025-12-25 17:20:47 [TestNG-tests-2] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_STABLE to get latest version of msedgedriver (msedgedriver.azureedge.net)
+2025-12-25 17:20:47 [TestNG-tests-2] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_STABLE to get latest version of msedgedriver (msedgedriver.azureedge.net)
+2025-12-25 17:20:47 [TestNG-tests-2] INFO  WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+2025-12-25 17:20:47 [TestNG-tests-2] ERROR WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net)
+io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at io.github.bonigarcia.wdm.WebDriverManager.getDriversFromXml(WebDriverManager.java:1588) ~[webdrivermanager-5.9.2.jar:?]
+	at io.github.bonigarcia.wdm.managers.EdgeDriverManager.getDriverUrls(EdgeDriverManager.java:115) ~[webdrivermanager-5.9.2.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.createUrlHandler(WebDriverManager.java:1442) ~[webdrivermanager-5.9.2.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.download(WebDriverManager.java:1268) ~[webdrivermanager-5.9.2.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1184) ~[webdrivermanager-5.9.2.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.fallback(WebDriverManager.java:1437) ~[webdrivermanager-5.9.2.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:1415) ~[webdrivermanager-5.9.2.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1190) ~[webdrivermanager-5.9.2.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:427) ~[webdrivermanager-5.9.2.jar:?]
+	at testBase.BaseTestClass.setup(BaseTestClass.java:67) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+Caused by: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at java.base/java.net.InetAddress$CachedLookup.get(InetAddress.java:998) ~[?:?]
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1807) ~[?:?]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1676) ~[?:?]
+	at org.apache.hc.client5.http.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:43) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:141) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:447) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:162) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:172) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:142) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:192) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:152) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:87) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:55) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.classic.HttpClient.executeOpen(HttpClient.java:183) ~[httpclient5-5.2.1.jar:5.2.1]
+	at io.github.bonigarcia.wdm.online.HttpClient.execute(HttpClient.java:157) ~[webdrivermanager-5.9.2.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.getDriversFromXml(WebDriverManager.java:1573) ~[webdrivermanager-5.9.2.jar:?]
+	... 27 more
+2025-12-25 17:20:50 [TestNG-tests-1] INFO  TC001_AccountRegistration - ***Starting the execution***
+2025-12-25 17:20:52 [TestNG-tests-1] INFO  TC001_AccountRegistration - ***Launched the homepage***
+2025-12-25 17:20:52 [TestNG-tests-1] INFO  TC001_AccountRegistration - ***Providing user details***
+2025-12-25 17:20:54 [TestNG-tests-1] INFO  TC001_AccountRegistration - ***Account is registered successfully***
+2025-12-25 17:27:17 [TestNG-tests-1] INFO  WebDriverManager - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
+2025-12-25 17:27:17 [TestNG-tests-1] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\BHARATHI\.cache\selenium\chromedriver\win64\143.0.7499.169\chromedriver.exe
+2025-12-25 17:27:17 [TestNG-tests-2] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_RELEASE_143_WINDOWS to get latest version of msedgedriver (No such host is known (msedgedriver.azureedge.net))
+2025-12-25 17:27:17 [TestNG-tests-2] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_STABLE to get latest version of msedgedriver (msedgedriver.azureedge.net)
+2025-12-25 17:27:17 [TestNG-tests-2] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_STABLE to get latest version of msedgedriver (msedgedriver.azureedge.net)
+2025-12-25 17:27:17 [TestNG-tests-2] INFO  WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+2025-12-25 17:27:17 [TestNG-tests-2] WARN  WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net) ... trying again using latest driver stored in cache
+2025-12-25 17:27:17 [TestNG-tests-2] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_STABLE to get latest version of msedgedriver (msedgedriver.azureedge.net)
+2025-12-25 17:27:17 [TestNG-tests-2] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_STABLE to get latest version of msedgedriver (msedgedriver.azureedge.net)
+2025-12-25 17:27:17 [TestNG-tests-2] INFO  WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+2025-12-25 17:27:17 [TestNG-tests-2] ERROR WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net)
+io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at io.github.bonigarcia.wdm.WebDriverManager.getDriversFromXml(WebDriverManager.java:1588) ~[webdrivermanager-5.9.2.jar:?]
+	at io.github.bonigarcia.wdm.managers.EdgeDriverManager.getDriverUrls(EdgeDriverManager.java:115) ~[webdrivermanager-5.9.2.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.createUrlHandler(WebDriverManager.java:1442) ~[webdrivermanager-5.9.2.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.download(WebDriverManager.java:1268) ~[webdrivermanager-5.9.2.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1184) ~[webdrivermanager-5.9.2.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.fallback(WebDriverManager.java:1437) ~[webdrivermanager-5.9.2.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:1415) ~[webdrivermanager-5.9.2.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1190) ~[webdrivermanager-5.9.2.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:427) ~[webdrivermanager-5.9.2.jar:?]
+	at testBase.BaseTestClass.setup(BaseTestClass.java:67) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) ~[?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+Caused by: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at java.base/java.net.InetAddress$CachedLookup.get(InetAddress.java:998) ~[?:?]
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1807) ~[?:?]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1676) ~[?:?]
+	at org.apache.hc.client5.http.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:43) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:141) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:447) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:162) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:172) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:142) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:192) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:152) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:87) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:55) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.classic.HttpClient.executeOpen(HttpClient.java:183) ~[httpclient5-5.2.1.jar:5.2.1]
+	at io.github.bonigarcia.wdm.online.HttpClient.execute(HttpClient.java:157) ~[webdrivermanager-5.9.2.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.getDriversFromXml(WebDriverManager.java:1573) ~[webdrivermanager-5.9.2.jar:?]
+	... 27 more
+2025-12-25 17:27:21 [TestNG-tests-1] INFO  TC001_AccountRegistration - ***Starting the execution***
+2025-12-25 17:27:21 [TestNG-tests-1] INFO  TC001_AccountRegistration - ***Launched the homepage***
+2025-12-25 17:27:21 [TestNG-tests-1] INFO  TC001_AccountRegistration - ***Providing user details***
+2025-12-25 17:27:23 [TestNG-tests-1] INFO  TC001_AccountRegistration - ***Account is registered successfully***
+2025-12-25 18:43:34 [main] INFO  WebDriverManager - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
+2025-12-25 18:43:34 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\BHARATHI\.cache\selenium\chromedriver\win64\143.0.7499.169\chromedriver.exe
+2025-12-25 18:43:37 [main] INFO  TC002_LoginTest - ***Starting LoginTest tet case execution ***
+2025-12-25 18:43:40 [main] INFO  TC002_LoginTest - ***User Logged Out***
+2025-12-25 18:59:55 [main] INFO  WebDriverManager - Using chromedriver 143.0.7499.169 (resolved driver for Chrome 143)
+2025-12-25 18:59:55 [main] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\BHARATHI\.cache\selenium\chromedriver\win64\143.0.7499.169\chromedriver.exe
+2025-12-25 18:59:58 [main] INFO  TC002_LoginTest - ***Starting LoginTest tet case execution ***
+2025-12-25 19:00:03 [main] INFO  TC002_LoginTest - ***User Logged Out***
